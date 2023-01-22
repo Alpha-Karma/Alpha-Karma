@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalhando com vendas digitais
 - 🌱 Estudando programação Front e Back end. (Principalmente Python)
+- 🌱 Estudando Hacking e Pentest.
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Tenho TDAH então estudo de tudo um pouco, tudo me parece interessante.
 
